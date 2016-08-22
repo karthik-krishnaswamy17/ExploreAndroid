@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Learn_Android</string>
+    <string name="edit_message">Enter your Name.</string>
+    <string name="button_send">send</string>
+    <string name="activity_b">This is Activity B</string>
 </resources>
